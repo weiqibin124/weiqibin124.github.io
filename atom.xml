@@ -42,9 +42,9 @@
     <link href="http://yoursite.com/2020/02/13/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/"/>
     <id>http://yoursite.com/2020/02/13/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/</id>
     <published>2020-02-13T13:57:49.000Z</published>
-    <updated>2020-03-30T08:42:56.953Z</updated>
+    <updated>2020-03-30T12:04:53.569Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>记录关于Markdown的学习以及个人博客建设中遇到的一些问题及解答</p><a id="more"></a>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>记录关于Markdown的学习以及个人博客建设中遇到的一些问题及解答</p><a id="more"></a><p>2020年3月30日 19:58:33</p><p>解决Safari浏览器无法显示豆瓣读书图片的问题</p><p>解决方法：</p><p>在<code>themes/next/layout/_partials/head/head.swig</code>中添加如下标签</p><pre><code>&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;</code></pre><p><a href="https://github.com/mythsman/hexo-douban/issues/33" target="_blank" rel="noopener">参考链接</a></p>]]></content>
     
     <summary type="html">
     
