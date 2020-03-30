@@ -42,13 +42,13 @@
     <link href="http://yoursite.com/2020/02/13/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/"/>
     <id>http://yoursite.com/2020/02/13/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97/</id>
     <published>2020-02-13T13:57:49.000Z</published>
-    <updated>2020-03-19T11:25:12.998Z</updated>
+    <updated>2020-03-30T08:42:56.953Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这是一篇测试性的博客，在这篇博客中，我会尽量用到Markdown的各种语法，来熟悉Markdown的操作。</p><a id="more"></a><p><strong>这是加粗</strong></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>记录关于Markdown的学习以及个人博客建设中遇到的一些问题及解答</p><a id="more"></a>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;这是一篇测试性的博客，在这篇博客中，我会尽量用到Markdown的各种语法，来熟悉Markdown的操作。&lt;/p&gt;
+      &lt;p&gt;记录关于Markdown的学习以及个人博客建设中遇到的一些问题及解答&lt;/p&gt;
     
     </summary>
     
