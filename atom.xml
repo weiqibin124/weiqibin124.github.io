@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-04T05:08:37.841Z</updated>
+  <updated>2020-04-04T08:38:03.794Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/04/04/C%E8%AF%AD%E8%A8%80%E8%BF%90%E7%AE%97%E7%AC%A6%E4%BC%98%E5%85%88%E7%BA%A7/"/>
     <id>http://yoursite.com/2020/04/04/C%E8%AF%AD%E8%A8%80%E8%BF%90%E7%AE%97%E7%AC%A6%E4%BC%98%E5%85%88%E7%BA%A7/</id>
     <published>2020-04-04T04:31:29.000Z</published>
-    <updated>2020-04-04T05:08:37.841Z</updated>
+    <updated>2020-04-04T08:38:03.794Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><table><thead><tr><th align="center">优先级</th><th align="center">运算符</th><th align="center">结合性</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">()</td><td align="center">从左到右</td></tr><tr><td align="center">2</td><td align="center">! + - ++ –</td><td align="center">从右到左（单目的+和-）</td></tr><tr><td align="center">3</td><td align="center">* / %</td><td align="center">从左到右</td></tr><tr><td align="center">4</td><td align="center">+ -</td><td align="center">从左到右</td></tr><tr><td align="center">5</td><td align="center">&lt; &lt;= &gt; &gt;=</td><td align="center">从左到右</td></tr><tr><td align="center">6</td><td align="center">== !=</td><td align="center">从左到右</td></tr><tr><td align="center">7</td><td align="center">&amp;&amp;</td><td align="center">从左到右</td></tr><tr><td align="center">8</td><td align="center">||</td><td align="center">从左到右</td></tr><tr><td align="center">9</td><td align="center">= += -= *= /= %=</td><td align="center">从右到左</td></tr></tbody></table><p>优先级：关系运算&gt;逻辑运算&gt;赋值运算</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><table><thead><tr><th align="center">优先级</th><th align="center">运算符</th><th align="center">结合性</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">()</td><td align="center">从左到右</td></tr><tr><td align="center">2</td><td align="center">! + - ++ –</td><td align="center">从右到左（单目的+和-）</td></tr><tr><td align="center">3</td><td align="center">* / %</td><td align="center">从左到右</td></tr><tr><td align="center">4</td><td align="center">+ -</td><td align="center">从左到右</td></tr><tr><td align="center">5</td><td align="center">&lt; &lt;= &gt; &gt;=</td><td align="center">从左到右</td></tr><tr><td align="center">6</td><td align="center">== !=</td><td align="center">从左到右</td></tr><tr><td align="center">7</td><td align="center">&amp;&amp;</td><td align="center">从左到右</td></tr><tr><td align="center">8</td><td align="center">||</td><td align="center">从左到右</td></tr><tr><td align="center">9</td><td align="center">= += -= *= /= %=</td><td align="center">从右到左</td></tr></tbody></table><p>优先级：关系运算&gt;逻辑运算&gt;赋值运算</p><p>强制转换类型的优先级高于四则运算。</p>]]></content>
     
     <summary type="html">
     
